@@ -7,6 +7,11 @@ CEN A Groups
   <li>Group 3</li>
   <li>Group 4</li>
   <li>Group 5 - FMS (https://github.com/eseferi18/Farming_Management_System)</li>
+  <li>Group 6</li>
+  <li>Group 7 - Restaurant Management System (https://github.com/aagolli18/RestaurantManagementSystem) </li>
+
+
+  
   
 </ul>
 
