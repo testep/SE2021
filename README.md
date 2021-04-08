@@ -14,6 +14,7 @@ CEN A Groups
 CEN B Groups
 <ul>
   <li>Group 1 - Techengers ( https://github.com/renttrent/Techengers ) (renttrent -> rballa18) </li>
+  <li>Group 2 - Runtime Error (https://github.com/smemaj18/Epoka-eLearner) </li>
   <li>Group 4 - Ravenclaws ( https://github.com/drama18/SE-2021 )</li>
   <li>Group 5 - Isekai (https://github.com/lziko18/2D_Game) (We'll rename the game and repo once we find a name for it.)</li>
 </ul>
