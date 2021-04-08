@@ -3,7 +3,7 @@
 CEN A Groups
 <ul>
   <li>Group 1</li>
-  <li>Group 2</li>
+  <li>Group 2 - MDS (https://github.com/ekazaferi18/Software_Engineering_2021)</li>
   <li>Group 3</li>
   <li>Group 4</li>
   <li>Group 5 - FMS (https://github.com/eseferi18/Farming_Management_System)</li>
