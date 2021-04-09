@@ -2,7 +2,7 @@
 
 CEN A Groups
 <ul>
-  <li>Group 1</li>
+  <li>Group 1 - Hotel Management System (https://github.com/gnano18/Hotel-Management-System)</li>
   <li>Group 2 - MDS (https://github.com/ekazaferi18/Software_Engineering_2021)</li>
   <li>Group 3</li>
   <li>Group 4</li>
