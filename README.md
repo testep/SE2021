@@ -5,7 +5,7 @@ CEN A Groups
   <li>Group 1 - Hotel Management System (https://github.com/gnano18/Hotel-Management-System)</li>
   <li>Group 2 - MDS (https://github.com/ekazaferi18/Software_Engineering_2021)</li>
   <li>Group 3</li>
-  <li>Group 4</li>
+  <li>Group 4   High-School-IS (https://github.com/fhilaj18/High-School-IS)</li>
   <li>Group 5 - FMS (https://github.com/eseferi18/Farming_Management_System)</li>
   <li>Group 6 - Restaurant Management System (https://github.com/aagolli18/RestaurantManagementSystem) </li>
   <li>Group 7 - DevsCreed ( https://github.com/aligori/DevsCreed ) </li>
